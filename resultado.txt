@@ -1,0 +1,6 @@
+O valor dado ao somar 10 e 10 é = 20 
+
+O valor dado ao somar 5 e 7 é = 12 
+
+O valor dado ao somar 137 e 13 é = 150 
+
